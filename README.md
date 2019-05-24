@@ -1,3 +1,3 @@
-# SIMPLE FORM HOOK
+# Simple Form Hook
 
 Simple react form hook, basic. Unfinished.
