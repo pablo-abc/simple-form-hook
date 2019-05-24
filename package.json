@@ -19,5 +19,6 @@
   "dependencies": {
     "@types/react": "^16.8.18",
     "react": "^16.8.6"
-  }
+  },
+  "keywords": ["react", "form", "hook", "hooks", "simple"]
 }
