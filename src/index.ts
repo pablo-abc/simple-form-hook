@@ -1,5 +1,4 @@
-import { useState, useEffect } from 'react';
-import * as React from 'react';
+import React, { useState, useEffect } from 'react';
 
 interface Rule<T extends object> {
   required?: boolean;
