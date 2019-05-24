@@ -1,0 +1,23 @@
+{
+  "name": "simple-form-hook",
+  "version": "0.1.0",
+  "description": "A simple form hook for React",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "author": "Pablo Berganza <pablo@berganza.dev>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "yarn build"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "@types/react": "^16.8.18",
+    "react": "^16.8.6"
+  }
+}
