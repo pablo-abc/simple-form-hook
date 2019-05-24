@@ -20,5 +20,9 @@
     "@types/react": "^16.8.18",
     "react": "^16.8.6"
   },
-  "keywords": ["react", "form", "hook", "hooks", "simple"]
+  "keywords": ["react", "form", "hook", "hooks", "simple"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablo-abc/simple-form-hook.git"
+  }
 }
